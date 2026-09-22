@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](BLUE SPARK 25859.png)
+![logo](assets/BLUE-SPARK-25859.JPG)
 <!--
 
 **Here are some ideas to get you started:**
